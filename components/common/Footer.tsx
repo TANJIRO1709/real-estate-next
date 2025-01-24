@@ -12,12 +12,12 @@ const Footer = () => {
       <strong className="text-xl md:text-2xl lg:text-3xl">
         Made With &#x2764; By
         <a
-          href="//github.com/heyitsuzair"
+          href="//github.com"
           className="text-red-500"
           target="_blank"
           rel="noreferrer"
         >
-          {""} UZAIR
+          {""} PHOENIX
         </a>
       </strong>
     </footer>
