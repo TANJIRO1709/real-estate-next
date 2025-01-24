@@ -10,7 +10,7 @@ const contact = () => {
         <title>Contact</title>
         <meta
           name="description"
-          content="Real Estate Site My Muhammad Uzair. Contact"
+          content="Real Estate Site by Phoenix."
         />
       </Head>
       <BreadCrumb text="Contact Us" />
