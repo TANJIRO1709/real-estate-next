@@ -11,13 +11,13 @@ const Topbar = () => {
               <i className="fa-regular fa-envelope text-red-500"></i>
               <span className="text-sm">
                 <a href="mailto:uzairdeveloper354123@gmail.com">
-                  uzairdeveloper354123@gmail.com
+                  phoenix@gmail.com
                 </a>
               </span>
             </div>
             <div className="item-2 flex gap-1 items-center">
               <i className="fa-solid fa-location-dot text-red-500"></i>
-              <span className="text-sm">Lahore,Pakistan</span>
+              <span className="text-sm">Rourkela,India</span>
             </div>
           </div>
         </div>
@@ -29,10 +29,10 @@ const Topbar = () => {
             <a href="//twitter.com">
               <i className="fa-brands fa-twitter"></i>
             </a>
-            <a href="//instagram.com/codewith_uzair">
+            <a href="//instagram.com">
               <i className="fa-brands fa-instagram"></i>
             </a>
-            <a href="//github.com/heyitsuzair">
+            <a href="//github.com">
               <i className="fa-brands fa-github"></i>
             </a>
             <Link
