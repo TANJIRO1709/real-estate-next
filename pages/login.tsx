@@ -65,7 +65,7 @@ const Login = () => {
         <title>Login</title>
         <meta
           name="description"
-          content="Real Estate Site My Muhammad Uzair. Login"
+          content="Real Estate Site by Phoenix. Login"
         />
       </Head>
       <BreadCrumb text="Login" />
