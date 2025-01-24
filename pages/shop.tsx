@@ -55,7 +55,7 @@ const Shop = () => {
         <title>Shop</title>
         <meta
           name="description"
-          content="Real Estate Site My Muhammad Uzair. Shop"
+          content="Real Estate Site by Phoenix . Shop"
         />
       </Head>
       <BreadCrumb text="Shop" />
