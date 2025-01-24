@@ -102,7 +102,7 @@ const Register = () => {
         <title>Register</title>
         <meta
           name="description"
-          content="Real Estate Site My Muhammad Uzair. Register"
+          content="Real Estate Site by Phoenix. Register"
         />
       </Head>
       <BreadCrumb text="Register" />
@@ -141,7 +141,7 @@ const Register = () => {
                     id="phone_no"
                     type="text"
                     name="phone_no"
-                    label="Phone No (e.g: 03104864156)"
+                    label="Phone No (eg 1234567890)"
                     value={values.phone_no}
                     error={errors.phone_no && touched.phone_no}
                     errorText={errors.phone_no}
