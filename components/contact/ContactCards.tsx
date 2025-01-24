@@ -17,10 +17,10 @@ const ContactCards = () => {
           </div>
           <div className="value">
             <a
-              href="mailto:uzairdevil354123@gmail.com"
+              href="mailto:phoenix@gmail.com"
               className="text-gray-500 hover:text-red-500 cursor-pointer transition-all"
             >
-              uzairdevil354123@gmail.com
+              phoenix@gmail.com
             </a>
           </div>
         </div>
@@ -35,10 +35,10 @@ const ContactCards = () => {
           </div>
           <div className="value">
             <a
-              href="tel:03104864150"
+              href="tel:0123456789"
               className="text-gray-500 hover:text-red-500 cursor-pointer transition-all"
             >
-              03104864150
+             0123456789
             </a>
           </div>
         </div>
@@ -56,7 +56,7 @@ const ContactCards = () => {
               href="#map"
               className="text-gray-500 hover:text-red-500 cursor-pointer transition-all"
             >
-              Lahore, Pakistan
+            Rourkela , India
             </a>
           </div>
         </div>
