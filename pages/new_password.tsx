@@ -80,7 +80,7 @@ const New_Password = () => {
         <title>Set New Password</title>
         <meta
           name="description"
-          content="Real Estate Site My Muhammad Uzair. Set New Password"
+          content="Real Estate Site by Phoenix. Set New Password"
         />
       </Head>
       <BreadCrumb text="Set New Password" />
