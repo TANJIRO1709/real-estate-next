@@ -14,7 +14,7 @@ export default function Home() {
         <title>Home</title>
         <meta
           name="description"
-          content="Real Estate Site My Muhammad Uzair. Home"
+          content="Real Estate Site by Phoenix. Home"
         />
       </Head>
       <Hero />
