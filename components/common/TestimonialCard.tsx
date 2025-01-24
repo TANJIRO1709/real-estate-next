@@ -31,7 +31,7 @@ const TestimonialCard = ({
           <div className="flex gap-3 items-center">
             <Image src={img} alt="Loading..." className={styles.authorPic} />
             <div className="author-info text-start flex flex-col justify-between">
-              <strong className="text-md text-black">Muhammad Uzair</strong>
+              <strong className="text-md text-black">Phoenix</strong>
               <span className="text-sm text-gray-500">Estate Agents</span>
             </div>
           </div>
