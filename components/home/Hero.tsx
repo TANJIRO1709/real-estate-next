@@ -37,8 +37,7 @@ const Hero = () => {
               </div>
               <div className="slick-description my-4 border-l-2 border-gray-300 px-4 text-slate-500">
                 <p className="text-sm pr-0 md:pr-36 lg:pr-36 leading-8">
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                  Quis, voluptas? Lorem ipsum dolor sit.
+                  Phoenix AI is a personalized AI recommendation system designed to help users make smarter decisions in price and property selection. By leveraging advanced algorithms and data analytics, it provides tailored suggestions based on user preferences, budget, and market trends.
                 </p>
               </div>
               <div className="slick-button mt-16">
