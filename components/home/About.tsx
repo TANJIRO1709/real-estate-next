@@ -56,7 +56,8 @@ const About = () => {
 
           <div className="quote-section mt-4">
             <Quote
-              text="Enimad minim veniam quis nostrud exercitation llamco laboris. Lorem ipsum dolor sit amet"
+              text="
+Phoenix AI is a personalized AI recommendation system for price and property suggestions, built to deliver accurate and tailored recommendations to users. Its core strength lies in the integration of machine learning models, which ensure scalability and adaptability. These models analyze vast datasets, identify patterns, and continuously improve over time, allowing the system to handle a growing user base and dynamic market conditions. By leveraging ML-driven insights, Phoenix AI provides a seamless and efficient experience, helping users make data-driven decisions effortlessly."
               borderColorClass="border-red-500"
               bgColorClass="bg-red-50"
             />
