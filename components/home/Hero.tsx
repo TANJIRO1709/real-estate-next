@@ -33,7 +33,7 @@ const Hero = () => {
                 </span>
               </div>
               <div className="slick-title my-8 font-semibold">
-                <h1>Find Your Dream House By Us</h1>
+                <h1>Find Your Solution with Phoenix AI</h1>
               </div>
               <div className="slick-description my-4 border-l-2 border-gray-300 px-4 text-slate-500">
                 <p className="text-sm pr-0 md:pr-36 lg:pr-36 leading-8">
@@ -67,12 +67,11 @@ const Hero = () => {
                 </span>
               </div>
               <div className="slick-title text-end my-8 font-semibold">
-                <h1>Find Your Dream House By Us</h1>
+                <h1>Find Your Solution with Phoenix AI</h1>
               </div>
               <div className="slick-description my-4 border-r-2 border-gray-300 px-4 text-slate-500">
                 <p className="text-sm pr-0 pl-10 md:pl-36 lg:pl-36 leading-8">
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                  Quis, voluptas? Lorem ipsum dolor sit.
+                  Phoenix AI is a personalized AI recommendation system designed to help users make smarter decisions in price and property selection. By leveraging advanced algorithms and data analytics, it provides tailored suggestions based on user preferences, budget, and market trends.
                 </p>
               </div>
               <div className="slick-button mt-16 text-end">
@@ -96,12 +95,11 @@ const Hero = () => {
                 </span>
               </div>
               <div className="slick-title my-8 font-semibold">
-                <h1>Find Your Dream House By Us</h1>
+                <h1>Find Your Solution with Phoenix AI</h1>
               </div>
               <div className="slick-description my-4 border-l-2 border-gray-300 px-4 text-slate-500">
                 <p className="text-sm pr-0 md:pr-36 lg:pr-36 leading-8">
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                  Quis, voluptas? Lorem ipsum dolor sit.
+                  Phoenix AI is a personalized AI recommendation system designed to help users make smarter decisions in price and property selection. By leveraging advanced algorithms and data analytics, it provides tailored suggestions based on user preferences, budget, and market trends.
                 </p>
               </div>
               <div className="slick-button mt-16">
